@@ -1,0 +1,935 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2ba6fe96-3e2a-4c9f-8d18-5df4e0e99a34" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docker-compose/obam-obkm-with-obbi/wait-for-it.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1805" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CHANGELOG.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="307">
+                <caret line="57" selection-start-line="57" selection-end-line="57" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dockerfiles/ubuntu/obkm/Dockerfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docker-compose/obam-with-obkm/mysql/scripts/au/setup.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dockerfiles/ubuntu/obbi/worker/Dockerfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="18" column="59" selection-start-line="18" selection-start-column="59" selection-end-line="18" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dockerfiles/ubuntu/obam/Dockerfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="11" column="67" selection-start-line="11" selection-start-column="67" selection-end-line="11" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dockerfiles/ubuntu/obbi/dashboard/Dockerfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="332">
+              <caret line="79" selection-start-line="79" selection-end-line="79" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>MB_QUEUE_MAPPING</find>
+      <find>clienta</find>
+      <find>Auth2AuthzEPUr</find>
+      <find>useracc</find>
+      <find>_docker_source</find>
+      <find>rootroot</find>
+      <find>renew</find>
+      <find>mtls</find>
+      <find>localhost</find>
+      <find>url</find>
+      <find>offse</find>
+      <find>UM_DOMAIN</find>
+      <find>REG_RESOURCE</find>
+      <find>openbank_iskm_configdb</find>
+      <find>openbank_userdb</find>
+      <find>openbank_am_configdb</find>
+      <find>openbank_openbankingdb</find>
+      <find>reg_</find>
+      <find>identifier</find>
+      <find>use</find>
+      <find>reg</find>
+      <find>common</find>
+      <find>140</find>
+      <find>debug</find>
+      <find>bis</find>
+      <find>openbank_ob_reporting_statsdb</find>
+      <find>openbank_ob_reporting_summarizeddb</find>
+      <find>tra</find>
+      <find>worker</find>
+      <find>local</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/docker-compose/obam-with-obkm</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="changelog-au" />
+      </map>
+    </option>
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/dockerfiles/alpine/obam/README.md" />
+        <option value="$PROJECT_DIR$/dockerfiles/alpine/obbi/dashboard/README.md" />
+        <option value="$PROJECT_DIR$/dockerfiles/alpine/obbi/worker/README.md" />
+        <option value="$PROJECT_DIR$/dockerfiles/alpine/obkm/README.md" />
+        <option value="$PROJECT_DIR$/dockerfiles/alpine/obam/docker-entrypoint.sh" />
+        <option value="$PROJECT_DIR$/dockerfiles/alpine/obam/Dockerfile" />
+        <option value="$PROJECT_DIR$/dockerfiles/alpine/obbi/dashboard/docker-entrypoint.sh" />
+        <option value="$PROJECT_DIR$/dockerfiles/alpine/obbi/dashboard/Dockerfile" />
+        <option value="$PROJECT_DIR$/dockerfiles/alpine/obbi/worker/docker-entrypoint.sh" />
+        <option value="$PROJECT_DIR$/dockerfiles/alpine/obbi/worker/Dockerfile" />
+        <option value="$PROJECT_DIR$/dockerfiles/alpine/obkm/docker-entrypoint.sh" />
+        <option value="$PROJECT_DIR$/dockerfiles/alpine/obkm/Dockerfile" />
+        <option value="$PROJECT_DIR$/dockerfiles/ubuntu/obam/docker-entrypoint.sh" />
+        <option value="$PROJECT_DIR$/dockerfiles/ubuntu/obbi/dashboard/docker-entrypoint.sh" />
+        <option value="$PROJECT_DIR$/dockerfiles/ubuntu/obbi/worker/docker-entrypoint.sh" />
+        <option value="$PROJECT_DIR$/dockerfiles/ubuntu/obkm/docker-entrypoint.sh" />
+        <option value="$PROJECT_DIR$/docker-compose/obam-with-obkm/mysql/scripts/au/au.sql" />
+        <option value="$PROJECT_DIR$/docker-compose/obam-with-obkm/obam/au/repository/conf/user-mgt.xml" />
+        <option value="$PROJECT_DIR$/docker-compose/obam-with-obkm/obam/au/repository/resources/api_templates/velocity_template.xml" />
+        <option value="$PROJECT_DIR$/docker-compose/obam-with-obkm/obam/au/repository/conf/api-manager.xml" />
+        <option value="$PROJECT_DIR$/docker-compose/obam-with-obkm/obam/au/repository/conf/registry.xml" />
+        <option value="$PROJECT_DIR$/docker-compose/obam-with-obkm/obkm/au/repository/conf/finance/open-banking.xml" />
+        <option value="$PROJECT_DIR$/docker-compose/obam-with-obkm/obkm/au/repository/conf/identity/identity.xml" />
+        <option value="$PROJECT_DIR$/docker-compose/obam-with-obkm/obkm/au/repository/conf/registry.xml" />
+        <option value="$PROJECT_DIR$/docker-compose/obam-with-obkm/obkm/au/repository/conf/user-mgt.xml" />
+        <option value="$PROJECT_DIR$/docker-compose/obam-with-obkm/obkm/au/repository/deployment/server/jaggeryapps/ccportal/configs/conf.json" />
+        <option value="$PROJECT_DIR$/docker-compose/obam-with-obkm/obkm/au/repository/deployment/server/jaggeryapps/consentmgt/configs/conf.json" />
+        <option value="$PROJECT_DIR$/docker-compose/obam-with-obkm/obkm/au/repository/conf/carbon.xml" />
+        <option value="$PROJECT_DIR$/docker-compose/obam-with-obkm/obam/au/repository/conf/finance/open-banking.xml" />
+        <option value="$PROJECT_DIR$/docker-compose/obam-with-obkm/obkm/au/repository/conf/identity/application-authentication.xml" />
+        <option value="$PROJECT_DIR$/docker-compose/obam-with-obkm/obkm/au/repository/conf/datasources/master-datasources.xml" />
+        <option value="$PROJECT_DIR$/docker-compose/obam-with-obkm/obam/au/repository/conf/datasources/master-datasources.xml" />
+        <option value="$PROJECT_DIR$/docker-compose/obam-with-obkm/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/docker-compose/obam-with-obkm/README.md" />
+        <option value="$PROJECT_DIR$/docker-compose/obam-obkm-with-obbi/obam/au/repository/conf/api-manager.xml" />
+        <option value="$PROJECT_DIR$/docker-compose/obam-obkm-with-obbi/mysql/scripts/au/setup.sql" />
+        <option value="$PROJECT_DIR$/docker-compose/obam-obkm-with-obbi/obam/au/repository/conf/finance/open-banking.xml" />
+        <option value="$PROJECT_DIR$/docker-compose/obam-obkm-with-obbi/obkm/au/repository/conf/finance/open-banking.xml" />
+        <option value="$PROJECT_DIR$/docker-compose/obam-obkm-with-obbi/obbi/conf/dashboard/deployment.yaml" />
+        <option value="$PROJECT_DIR$/docker-compose/obam-obkm-with-obbi/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/docker-compose/obam-obkm-with-obbi/README.md" />
+        <option value="$PROJECT_DIR$/docker-compose/obam-obkm-with-obbi/scripts/README.md" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/docker-compose/obam-with-obkm/scripts/README.md" />
+        <option value="$PROJECT_DIR$/CONTRIBUTING.md" />
+        <option value="$PROJECT_DIR$/CHANGELOG.md" />
+        <option value="$PROJECT_DIR$/dockerfiles/ubuntu/obbi/worker/Dockerfile" />
+        <option value="$PROJECT_DIR$/dockerfiles/ubuntu/obam/Dockerfile" />
+        <option value="$PROJECT_DIR$/dockerfiles/ubuntu/obbi/dashboard/Dockerfile" />
+        <option value="$PROJECT_DIR$/dockerfiles/ubuntu/obkm/Dockerfile" />
+        <option value="$PROJECT_DIR$/docker-compose/obam-with-obkm/mysql/scripts/au/setup.sql" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/docker-open-banking.iml" />
+        <option value="$PROJECT_DIR$/.idea/qaplug_profiles.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/sqldialects.xml" />
+        <option value="$PROJECT_DIR$/.idea/sqldialects.xml" />
+        <option value="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="docker-open-banking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="docker-open-banking" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="docker-open-banking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="docker-open-banking" type="462c0819:PsiDirectoryNode" />
+              <item name="docker-compose" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="docker-open-banking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="docker-open-banking" type="462c0819:PsiDirectoryNode" />
+              <item name="docker-compose" type="462c0819:PsiDirectoryNode" />
+              <item name="obam-obkm-with-obbi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="docker-open-banking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="docker-open-banking" type="462c0819:PsiDirectoryNode" />
+              <item name="docker-compose" type="462c0819:PsiDirectoryNode" />
+              <item name="obam-obkm-with-obbi" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="docker-open-banking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="docker-open-banking" type="462c0819:PsiDirectoryNode" />
+              <item name="docker-compose" type="462c0819:PsiDirectoryNode" />
+              <item name="obam-with-obkm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="docker-open-banking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="docker-open-banking" type="462c0819:PsiDirectoryNode" />
+              <item name="docker-compose" type="462c0819:PsiDirectoryNode" />
+              <item name="obam-with-obkm" type="462c0819:PsiDirectoryNode" />
+              <item name="mysql" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="docker-open-banking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="docker-open-banking" type="462c0819:PsiDirectoryNode" />
+              <item name="docker-compose" type="462c0819:PsiDirectoryNode" />
+              <item name="obam-with-obkm" type="462c0819:PsiDirectoryNode" />
+              <item name="mysql" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="docker-open-banking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="docker-open-banking" type="462c0819:PsiDirectoryNode" />
+              <item name="docker-compose" type="462c0819:PsiDirectoryNode" />
+              <item name="obam-with-obkm" type="462c0819:PsiDirectoryNode" />
+              <item name="mysql" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="au" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="docker-open-banking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="docker-open-banking" type="462c0819:PsiDirectoryNode" />
+              <item name="docker-compose" type="462c0819:PsiDirectoryNode" />
+              <item name="obam-with-obkm" type="462c0819:PsiDirectoryNode" />
+              <item name="obkm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="docker-open-banking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="docker-open-banking" type="462c0819:PsiDirectoryNode" />
+              <item name="docker-compose" type="462c0819:PsiDirectoryNode" />
+              <item name="obam-with-obkm" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docker-compose/obam-obkm-with-obbi/obbi/deployment/siddhi-files" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docker-compose/obam-obkm-with-obbi/obbi/deployment/siddhi-files" />
+      <recent name="$PROJECT_DIR$/docker-compose/obam-obkm-with-obbi/obkm" />
+      <recent name="$PROJECT_DIR$/docker-compose/obam-obkm-with-obbi/obam" />
+      <recent name="$PROJECT_DIR$/docker-compose/obam-obkm-with-obbi/mysql/scripts" />
+      <recent name="$PROJECT_DIR$/docker-compose/obam-with-obkm/obkm/au/repository/resources/security" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ba6fe96-3e2a-4c9f-8d18-5df4e0e99a34" name="Default Changelist" comment="" />
+      <created>1584093150786</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584093150786</updated>
+      <workItem from="1584093152007" duration="4664000" />
+      <workItem from="1584332866230" duration="492000" />
+      <workItem from="1585549536988" duration="10262000" />
+      <workItem from="1585724919818" duration="1327000" />
+      <workItem from="1586497399055" duration="3866000" />
+      <workItem from="1586939798925" duration="4105000" />
+      <workItem from="1587021709872" duration="4339000" />
+      <workItem from="1587100306730" duration="7193000" />
+      <workItem from="1587353821416" duration="593000" />
+      <workItem from="1587365762863" duration="1920000" />
+      <workItem from="1587535139448" duration="906000" />
+      <workItem from="1587619704091" duration="481000" />
+      <workItem from="1587705081130" duration="1532000" />
+      <workItem from="1587956324084" duration="2291000" />
+      <workItem from="1588067184285" duration="11000" />
+      <workItem from="1590044044410" duration="1787000" />
+      <workItem from="1590123494771" duration="13313000" />
+    </task>
+    <task id="LOCAL-00001" summary="update ubuntu dockerfiles">
+      <created>1585634429978</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585634429978</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update alpine dockerfiles">
+      <created>1585635714151</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585635714151</updated>
+    </task>
+    <task id="LOCAL-00003" summary="downgrade jdk 11">
+      <created>1585635789778</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585635789778</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update license header">
+      <created>1585635905360</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1585635905360</updated>
+    </task>
+    <task id="LOCAL-00005" summary="remove leaked compose changes">
+      <created>1585636207110</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1585636207110</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Revert &quot;update license header&quot;&#10;&#10;This reverts commit 4d29d3e2">
+      <created>1585648642266</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1585648642266</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Add DB script for AU AM/KM">
+      <created>1586511763913</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1586511763913</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Add datasources AU AM/KM">
+      <created>1586939949675</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1586939949675</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Add docker compose resources for AU AM/KM">
+      <created>1587029884186</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1587029884186</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Add docker compose resources for AU AM/KM">
+      <created>1587957168382</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1587957168383</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Change version">
+      <created>1587973110926</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1587973110926</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Create Docker Compose Resources for OBAM, OBKM with OBBI for OB 1.5.0 AU">
+      <created>1590140036463</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1590140036464</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Change Changelog">
+      <created>1590144532325</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1590144532325</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Change Changelog">
+      <created>1590145039413</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1590145039413</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Change Changelog">
+      <created>1590146064865</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1590146064865</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Add compare">
+      <created>1590146469587</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1590146469587</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Fix">
+      <created>1590146847157</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1590146847157</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="59082000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25030527" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="7" weight="0.32959184" />
+      <window_info anchor="bottom" id="Analysis" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.54387754" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.64489794" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update ubuntu dockerfiles" />
+    <MESSAGE value="update alpine dockerfiles" />
+    <MESSAGE value="downgrade jdk 11" />
+    <MESSAGE value="update license header" />
+    <MESSAGE value="remove leaked compose changes" />
+    <MESSAGE value="Revert &quot;update license header&quot;&#10;&#10;This reverts commit 4d29d3e2" />
+    <MESSAGE value="Add DB script for AU AM/KM" />
+    <MESSAGE value="Add datasources AU AM/KM" />
+    <MESSAGE value="Add docker compose resources for AU AM/KM" />
+    <MESSAGE value="Change version" />
+    <MESSAGE value="Create Docker Compose Resources for OBAM, OBKM with OBBI for OB 1.5.0 AU" />
+    <MESSAGE value="Change Changelog" />
+    <MESSAGE value="Add compare" />
+    <MESSAGE value="Fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/docker-compose/obam-obkm-with-obbi/obkm/au/repository/conf/user-mgt.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3186" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose/obam-obkm-with-obbi/obkm/au/repository/deployment/server/jaggeryapps/ccportal/configs/conf.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose/obam-obkm-with-obbi/obkm/au/repository/deployment/server/jaggeryapps/consentmgt/configs/conf.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose/obam-obkm-with-obbi/obbi/deployment/siddhi-files/TRAAccountValidationApp.siddhi">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose/obam-obkm-with-obbi/obbi/deployment/siddhi-files/CDSInvocationMetricsApp.siddhi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1004" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose/obam-obkm-with-obbi/obbi/deployment/siddhi-files/CDSSessionMetricsApp.siddhi">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose/obam-obkm-with-obbi/mysql/scripts/uk/setup.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="58" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose/obam-obkm-with-obbi/obam/au/repository/conf/finance/open-banking.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-550">
+          <caret line="530" column="28" selection-start-line="530" selection-start-column="28" selection-end-line="530" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose/obam-obkm-with-obbi/obam/au/repository/conf/registry.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-777" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose/obam-obkm-with-obbi/obam/au/repository/conf/api-manager.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9825">
+          <caret line="655" column="6" lean-forward="true" selection-start-line="655" selection-start-column="6" selection-end-line="655" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose/obam-obkm-with-obbi/obkm/au/repository/conf/finance/open-banking.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="478" column="42" selection-start-line="478" selection-start-column="42" selection-end-line="478" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose/obam-obkm-with-obbi/obbi/conf/dashboard/deployment.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="566">
+          <caret line="449" column="15" selection-start-line="449" selection-start-column="10" selection-end-line="449" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose/obam-obkm-with-obbi/obbi/conf/worker/deployment.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="562" column="19" lean-forward="true" selection-start-line="562" selection-start-column="19" selection-end-line="562" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose/obam-obkm-with-obbi/mysql/scripts/au/setup.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="32" lean-forward="true" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dockerfiles/alpine/obam/docker-entrypoint.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dockerfiles/alpine/obam/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dockerfiles/alpine/obam/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-594" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dockerfiles/alpine/obbi/dashboard/docker-entrypoint.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dockerfiles/alpine/obbi/dashboard/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-239" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dockerfiles/alpine/obbi/dashboard/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-24">
+            <caret line="22" column="101" lean-forward="true" selection-start-line="22" selection-start-column="101" selection-end-line="22" selection-end-column="101" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dockerfiles/alpine/obbi/worker/docker-entrypoint.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dockerfiles/alpine/obbi/worker/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-284" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dockerfiles/alpine/obbi/worker/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dockerfiles/alpine/obkm/docker-entrypoint.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dockerfiles/alpine/obkm/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-494" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dockerfiles/alpine/obkm/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-594" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dockerfiles/ubuntu/obam/docker-entrypoint.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-29" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dockerfiles/ubuntu/obam/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dockerfiles/ubuntu/obbi/dashboard/docker-entrypoint.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dockerfiles/ubuntu/obbi/dashboard/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="126">
+            <caret line="29" column="64" selection-start-line="29" selection-start-column="64" selection-end-line="29" selection-end-column="64" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dockerfiles/ubuntu/obbi/worker/docker-entrypoint.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dockerfiles/ubuntu/obbi/worker/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="405">
+            <caret line="27" column="80" selection-start-line="27" selection-start-column="54" selection-end-line="27" selection-end-column="80" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dockerfiles/ubuntu/obkm/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose/obam-with-obkm/wait-for-it.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1469">
+          <caret line="24" column="10" lean-forward="true" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose/obam-with-obkm/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-576" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose/obam-with-obkm/scripts/deploy.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-479" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose/obam-obkm-with-obbi/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-771">
+          <caret line="40" column="16" lean-forward="true" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose/obam-obkm-with-obbi/scripts/deploy.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-359" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose/obam-obkm-with-obbi/scripts/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="411">
+            <caret line="67" column="99" lean-forward="true" selection-start-line="67" selection-start-column="99" selection-end-line="67" selection-end-column="99" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CONTRIBUTING.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="465">
+            <caret line="31" column="31" lean-forward="true" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="300">
+            <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose/obam-with-obkm/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="675">
+            <caret line="45" column="1" lean-forward="true" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose/obam-with-obkm/scripts/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="1185">
+            <caret line="79" column="97" selection-start-line="79" selection-start-column="97" selection-end-line="79" selection-end-column="97" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose/obam-obkm-with-obbi/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="45">
+            <caret line="41" column="31" lean-forward="true" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose/obam-obkm-with-obbi/wait-for-it.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1805" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CHANGELOG.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="307">
+            <caret line="57" selection-start-line="57" selection-end-line="57" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dockerfiles/ubuntu/obam/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="11" column="67" selection-start-line="11" selection-start-column="67" selection-end-line="11" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dockerfiles/ubuntu/obbi/dashboard/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dockerfiles/ubuntu/obbi/worker/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="18" column="59" selection-start-line="18" selection-start-column="59" selection-end-line="18" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dockerfiles/ubuntu/obkm/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose/obam-with-obkm/mysql/scripts/au/setup.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
